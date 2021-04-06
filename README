@@ -24,5 +24,20 @@ Running dmenu
 See the man page for details.
 
 ## TODO
-xyz
 xresources
+line height
+listfullwidth
+highlight
+grid
+gridnav
+fuzzymatch
+fuzzyhighlight
+case insensitive
+border
+
+## Maybe
+
+json
+center
+
+
