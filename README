@@ -27,17 +27,14 @@ See the man page for details.
 xresources
 line height
 listfullwidth
-highlight
 grid
 gridnav
 fuzzymatch
-fuzzyhighlight
-case insensitive
 border
 
 ## Maybe
 
 json
 center
-
+highlight
 
