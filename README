@@ -26,10 +26,6 @@ See the man page for details.
 ## TODO
 xresources
 line height
-listfullwidth
-grid
-gridnav
-fuzzymatch
 border
 
 ## Maybe
@@ -37,4 +33,8 @@ border
 json
 center
 highlight
+
+# idk
+grid
+gridnav
 
