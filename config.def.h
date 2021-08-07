@@ -9,12 +9,12 @@ static const char *fonts[] = { "Hack Regular Nerd Font Complete:size=12", "JoyPi
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
-	[SchemeNorm] = { "#bbbbbb", "#292d38" },
-	[SchemeSel] = { "#333333", "#80a0c0" },
-	[SchemeSelHighlight] = { "#ffc978", "#80a0c0" },
-	[SchemeNormHighlight] = { "#ffc978", "#292d38" },
-	[SchemeOut] = { "#000000", "#00ffff" },
-	[SchemeHp] = { "#bbbbbb", "#333333" }
+	[SchemeNorm] = { "#bbbbbb", "#282828" },
+	[SchemeSel] = { "#bbbbbb", "#282828" },
+	[SchemeSelHighlight] = { "#4fc1ff", "#444444" },
+	[SchemeNormHighlight] = { "#4fc1ff", "#292d38" },
+	[SchemeOut] = { "#bbbbbb", "#bbbbbb" },
+	[SchemeHp] = { "#bbbbbb", "#bbbbbb" }
 };
 /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
 static unsigned int lines      = 0;
